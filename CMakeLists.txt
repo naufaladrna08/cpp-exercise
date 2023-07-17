@@ -5,6 +5,7 @@ include(CTest)
 enable_testing()
 
 add_subdirectory(word-frequency-counter)
+add_subdirectory(task-scheduler)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
