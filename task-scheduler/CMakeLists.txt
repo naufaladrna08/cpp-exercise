@@ -1,4 +1,4 @@
 add_executable(
   task-scheduler
-  main.cpp
+  second.cpp
 )
